@@ -1,0 +1,34 @@
+# Gruvbox Material Light Soft - alacritty color config
+# by sainnhe https://github.com/sainnhe/gruvbox-material
+colors:
+  # Default colors
+  primary:
+    background: '0xf2e5bc'
+    foreground: '0x654735'
+
+  # Colors the cursor will use if `custom_cursor_colors` is true
+  cursor:
+    text:   '0xf9f5d7'
+    cursor: '0x665c54'
+
+  # Normal colors
+  normal:
+    black:   '0x654735'
+    red:     '0xc14a4a'
+    green:   '0x6c782e'
+    yellow:  '0xb47109'
+    blue:    '0x45707a'
+    magenta: '0x945e80'
+    cyan:    '0x4c7a5d'
+    white:   '0x928374'
+
+  # Bright colors
+  bright:
+    black:   '0x654735'
+    red:     '0xc14a4a'
+    green:   '0x6c782e'
+    yellow:  '0xb47109'
+    blue:    '0x45707a'
+    magenta: '0x945e80'
+    cyan:    '0x4c7a5d'
+    white:   '0x928374'
